@@ -1,0 +1,22 @@
+2018-04-19 14:59:14 Notice: Notice (8): Undefined index: Images in [/Applications/XAMPP/xamppfiles/htdocs/Dropbox/sboclub/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 238]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 238
+Twig_Template::getAttribute() - ROOT/vendor/twig/twig/lib/Twig/Template.php, line 679
+__TwigTemplate_89044c9d1f19b87b2ac1007176c05704c34271b9d61e2d3f9e71a62ccc39ffeb::doDisplay() - ROOT/tmp/cache/twigView/64/6486a9778c42122e6de277a18e690abee392e0f7d3f4aac0951403e07a02a3ab.php, line 22
+Twig_Template::displayWithErrorHandling() - ROOT/vendor/twig/twig/lib/Twig/Template.php, line 432
+Twig_Template::display() - ROOT/vendor/twig/twig/lib/Twig/Template.php, line 403
+Twig_Template::render() - ROOT/vendor/twig/twig/lib/Twig/Template.php, line 411
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT/vendor/wyrihaximus/twig-view/src/View/TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 956
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 100
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 507
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 500
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 141
+[main] - ROOT/bin/cake.php, line 12
+
+
+
