@@ -52,7 +52,7 @@
 <section class="container">
     <div class="row">
         <div class="col-md-12 f-promppt-400 g-color-black">
-            <marquee direction="lefe" scrollamount="5" style="font-size: 19px;" ONMOUSEOVER=stop(); ONMOUSEOUT=start();>ตัวแทนอย่างเป็นทางการ ที่ได้รับความไว้วางใจจากเว็บพนันออนไลน์ยอดนิยมของเอเชีย อาทิเช่น SBOBET 928BET</marquee>
+            <marquee direction="lefe" scrollamount="5" style="font-size: 19px;" ONMOUSEOVER=stop(); ONMOUSEOUT=start();>ตัวแทนอย่างเป็นทางการ ที่ได้รับความไว้วางใจจากเว็บพนันออนไลน์ยอดนิยมของเอเชีย อาทิเช่น SBOBET FASTBET</marquee>
         </div>
     </div>
 </section>
@@ -87,7 +87,7 @@
             <div class="text-center g-py-10">
                 <?=$this->Html->image('icon/facebook.png',['width'=>'80px'])?>
               
-                <h4 class="h1 f-promppt-500 g-color-primary g-mb-5"><a href="https://www.facebook.com/Sboclub99-2101824193435624/?ref=bookmarks" target="_blank">Sboclub99</a></h4>
+                <h4 class="h1 f-promppt-500 g-color-primary g-mb-5"><a href="https://www.facebook.com/99mbet-109611064508307" target="_blank">99mbet</a></h4>
             </div>
             <!-- End Icon Blocks -->
         </div>
