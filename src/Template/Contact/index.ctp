@@ -40,7 +40,7 @@
                 <div class="text-center g-py-20">
                     <?= $this->Html->image('icon/facebook.png', ['width' => '80px']) ?>
                  
-                    <h4 class="h2 f-promppt-500 g-color-gray-dark-v1 g-mb-5"><a href="https://www.facebook.com/Betclub99-VIP-2313306692284999/" target="_blank">Sboclub99</a></h4>
+                    <h4 class="h2 f-promppt-500 g-color-gray-dark-v1 g-mb-5"><a href="https://www.facebook.com/99mbet-109611064508307" target="_blank">99mbet</a></h4>
                 </div>
                 <!-- End Icon Blocks -->
             </div>
@@ -62,11 +62,11 @@
             <div class="col-md-12 g-mt-17 d-none d-sm-block d-md-block d-lg-block d-xl-block">
 
 
-                <div class="fb-page" data-href="https://www.facebook.com/Betclub99-VIP-2313306692284999" data-tabs="timeline, messages" 
+                <div class="fb-page" data-href="https://www.facebook.com/99mbet-109611064508307" data-tabs="timeline, messages" 
                      data-small-header="false" data-adapt-container-width="true" 
                      data-hide-cover="false" data-show-facepile="false" data-width="500" data-height="600">
-                    <blockquote cite="https://www.facebook.com/Betclub99-VIP-2313306692284999" class="fb-xfbml-parse-ignore">
-                        <a href="https://www.facebook.com/Betclub99-VIP-2313306692284999">Sboclub99</a>
+                    <blockquote cite="https://www.facebook.com/99mbet-109611064508307" class="fb-xfbml-parse-ignore">
+                        <a href="https://www.facebook.com/99mbet-109611064508307">99mbet</a>
                     </blockquote>
                 </div>
             </div>
@@ -75,11 +75,11 @@
                 <div id="fb-root"></div>
 
 
-                <div class="fb-page" data-href="https://www.facebook.com/Betclub99-VIP-2313306692284999" data-tabs="timeline, messages" 
+                <div class="fb-page" data-href="https://www.facebook.com/99mbet-109611064508307" data-tabs="timeline, messages" 
                      data-small-header="false" data-adapt-container-width="true" 
                      data-hide-cover="false" data-show-facepile="false" data-width="300" data-height="400">
-                    <blockquote cite="https://www.facebook.com/Betclub99-VIP-2313306692284999" class="fb-xfbml-parse-ignore">
-                        <a href="https://www.facebook.com/Betclub99-VIP-2313306692284999">Sboclub99</a>
+                    <blockquote cite="https://www.facebook.com/99mbet-109611064508307" class="fb-xfbml-parse-ignore">
+                        <a href="https://www.facebook.com/99mbet-109611064508307">99mbet</a>
                     </blockquote>
                 </div>
             </div>
